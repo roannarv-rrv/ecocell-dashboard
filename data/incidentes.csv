@@ -1,0 +1,80 @@
+﻿id;data;tipo;severidade;municipio;estado;descricao;status;dias_para_resolucao
+INC-0001;2022-01-09;Queimada não autorizada;Baixa;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Em tratamento;6
+INC-0002;2022-02-23;Derramamento de produto químico;Baixa;Teixeira de Freitas;BA;Ocorrência registrada na unidade de Teixeira de Freitas.;Resolvido;2
+INC-0003;2022-02-02;Derramamento de produto químico;Baixa;Nanuque;MG;Ocorrência registrada na unidade de Nanuque.;Em tratamento;5
+INC-0004;2022-02-16;Vazamento de efluente;Alta;Nanuque;MG;Ocorrência registrada na unidade de Nanuque.;Em tratamento;34
+INC-0005;2022-02-24;Emissão acima do limite;Média;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Monitorando;18
+INC-0006;2022-03-13;Queimada não autorizada;Baixa;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Monitorando;4
+INC-0007;2022-04-19;Emissão acima do limite;Média;Mucuri;BA;Ocorrência registrada na unidade de Mucuri.;Monitorando;5
+INC-0008;2022-04-06;Vazamento de efluente;Baixa;Eunápolis;BA;Ocorrência registrada na unidade de Eunápolis.;Em tratamento;4
+INC-0009;2022-04-25;Descarte irregular de resíduo;Baixa;Nanuque;MG;Ocorrência registrada na unidade de Nanuque.;Em tratamento;4
+INC-0010;2022-05-02;Queimada não autorizada;Média;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Resolvido;5
+INC-0011;2022-05-08;Derramamento de produto químico;Média;Teixeira de Freitas;BA;Ocorrência registrada na unidade de Teixeira de Freitas.;Resolvido;6
+INC-0012;2022-05-15;Queimada não autorizada;Baixa;Mucuri;BA;Ocorrência registrada na unidade de Mucuri.;Em tratamento;4
+INC-0013;2022-06-19;Vazamento de efluente;Média;Teixeira de Freitas;BA;Ocorrência registrada na unidade de Teixeira de Freitas.;Em tratamento;14
+INC-0014;2022-07-19;Derramamento de produto químico;Baixa;Nanuque;MG;Ocorrência registrada na unidade de Nanuque.;Resolvido;6
+INC-0015;2022-07-12;Emissão acima do limite;Média;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Em tratamento;8
+INC-0016;2022-07-28;Descarte irregular de resíduo;Baixa;Caravelas;BA;Ocorrência registrada na unidade de Caravelas.;Em tratamento;6
+INC-0017;2022-07-14;Derramamento de produto químico;Baixa;Teixeira de Freitas;BA;Ocorrência registrada na unidade de Teixeira de Freitas.;Monitorando;3
+INC-0018;2022-08-14;Emissão acima do limite;Média;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Em tratamento;20
+INC-0019;2022-08-15;Derramamento de produto químico;Média;Caravelas;BA;Ocorrência registrada na unidade de Caravelas.;Em tratamento;7
+INC-0020;2022-08-16;Derramamento de produto químico;Baixa;Nanuque;MG;Ocorrência registrada na unidade de Nanuque.;Em tratamento;4
+INC-0021;2022-08-01;Emissão acima do limite;Baixa;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Resolvido;5
+INC-0022;2022-10-21;Descarte irregular de resíduo;Baixa;Nanuque;MG;Ocorrência registrada na unidade de Nanuque.;Em tratamento;7
+INC-0023;2023-01-16;Emissão acima do limite;Baixa;Itabela;BA;Ocorrência registrada na unidade de Itabela.;Monitorando;2
+INC-0024;2023-01-23;Descarte irregular de resíduo;Baixa;Caravelas;BA;Ocorrência registrada na unidade de Caravelas.;Em tratamento;6
+INC-0025;2023-02-04;Emissão acima do limite;Baixa;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Monitorando;6
+INC-0026;2023-02-24;Emissão acima do limite;Baixa;Mucuri;BA;Ocorrência registrada na unidade de Mucuri.;Monitorando;6
+INC-0027;2023-03-08;Queimada não autorizada;Alta;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Resolvido;28
+INC-0028;2023-03-02;Vazamento de efluente;Baixa;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Monitorando;5
+INC-0029;2023-03-28;Vazamento de efluente;Média;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Monitorando;20
+INC-0030;2023-03-02;Queimada não autorizada;Baixa;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Em tratamento;4
+INC-0031;2023-06-05;Emissão acima do limite;Baixa;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Em tratamento;6
+INC-0032;2023-06-25;Emissão acima do limite;Alta;Teixeira de Freitas;BA;Ocorrência registrada na unidade de Teixeira de Freitas.;Em tratamento;24
+INC-0033;2023-06-19;Emissão acima do limite;Alta;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Resolvido;29
+INC-0034;2023-07-22;Vazamento de efluente;Alta;Teixeira de Freitas;BA;Ocorrência registrada na unidade de Teixeira de Freitas.;Resolvido;26
+INC-0035;2023-07-14;Descarte irregular de resíduo;Baixa;Itabela;BA;Ocorrência registrada na unidade de Itabela.;Monitorando;1
+INC-0036;2023-07-23;Descarte irregular de resíduo;Baixa;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Resolvido;2
+INC-0037;2023-07-04;Emissão acima do limite;Alta;Itabela;BA;Ocorrência registrada na unidade de Itabela.;Resolvido;37
+INC-0038;2023-08-26;Queimada não autorizada;Média;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Monitorando;6
+INC-0039;2023-09-09;Emissão acima do limite;Baixa;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Monitorando;4
+INC-0040;2023-09-24;Queimada não autorizada;Baixa;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Monitorando;5
+INC-0041;2023-09-19;Vazamento de efluente;Baixa;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Resolvido;2
+INC-0042;2023-09-19;Descarte irregular de resíduo;Baixa;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Monitorando;4
+INC-0043;2023-10-22;Vazamento de efluente;Baixa;Teixeira de Freitas;BA;Ocorrência registrada na unidade de Teixeira de Freitas.;Resolvido;4
+INC-0044;2023-10-27;Emissão acima do limite;Baixa;Caravelas;BA;Ocorrência registrada na unidade de Caravelas.;Resolvido;4
+INC-0045;2023-10-25;Descarte irregular de resíduo;Baixa;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Monitorando;3
+INC-0046;2023-12-20;Descarte irregular de resíduo;Baixa;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Monitorando;2
+INC-0047;2023-12-05;Queimada não autorizada;Média;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Em tratamento;13
+INC-0048;2023-12-10;Emissão acima do limite;Baixa;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Resolvido;6
+INC-0049;2023-12-04;Derramamento de produto químico;Baixa;São Mateus;ES;Ocorrência registrada na unidade de São Mateus.;Em tratamento;2
+INC-0050;2024-01-08;Descarte irregular de resíduo;Média;São Mateus;ES;Ocorrência registrada na unidade de São Mateus.;Monitorando;20
+INC-0051;2024-01-28;Vazamento de efluente;Baixa;Mucuri;BA;Ocorrência registrada na unidade de Mucuri.;Em tratamento;5
+INC-0052;2024-02-10;Queimada não autorizada;Alta;Caravelas;BA;Ocorrência registrada na unidade de Caravelas.;Monitorando;10
+INC-0053;2024-02-11;Emissão acima do limite;Média;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Monitorando;20
+INC-0054;2024-02-19;Descarte irregular de resíduo;Baixa;Nanuque;MG;Ocorrência registrada na unidade de Nanuque.;Resolvido;3
+INC-0055;2024-03-22;Derramamento de produto químico;Baixa;Eunápolis;BA;Ocorrência registrada na unidade de Eunápolis.;Em tratamento;4
+INC-0056;2024-03-28;Descarte irregular de resíduo;Baixa;Eunápolis;BA;Ocorrência registrada na unidade de Eunápolis.;Resolvido;5
+INC-0057;2024-03-28;Derramamento de produto químico;Alta;São Mateus;ES;Ocorrência registrada na unidade de São Mateus.;Resolvido;36
+INC-0058;2024-04-28;Queimada não autorizada;Baixa;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Monitorando;6
+INC-0059;2024-04-02;Emissão acima do limite;Baixa;São Mateus;ES;Ocorrência registrada na unidade de São Mateus.;Resolvido;3
+INC-0060;2024-04-14;Vazamento de efluente;Média;Itabela;BA;Ocorrência registrada na unidade de Itabela.;Monitorando;12
+INC-0061;2024-06-26;Vazamento de efluente;Média;Mucuri;BA;Ocorrência registrada na unidade de Mucuri.;Em tratamento;6
+INC-0062;2024-06-14;Emissão acima do limite;Baixa;Caravelas;BA;Ocorrência registrada na unidade de Caravelas.;Monitorando;2
+INC-0063;2024-06-16;Emissão acima do limite;Baixa;Mucuri;BA;Ocorrência registrada na unidade de Mucuri.;Resolvido;1
+INC-0064;2024-07-26;Descarte irregular de resíduo;Média;Aracruz;ES;Ocorrência registrada na unidade de Aracruz.;Em tratamento;13
+INC-0065;2024-08-23;Queimada não autorizada;Baixa;Mucuri;BA;Ocorrência registrada na unidade de Mucuri.;Em tratamento;3
+INC-0066;2024-08-08;Descarte irregular de resíduo;Baixa;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Monitorando;4
+INC-0067;2024-08-27;Descarte irregular de resíduo;Média;Caravelas;BA;Ocorrência registrada na unidade de Caravelas.;Em tratamento;14
+INC-0068;2024-08-27;Queimada não autorizada;Média;Eunápolis;BA;Ocorrência registrada na unidade de Eunápolis.;Resolvido;6
+INC-0069;2024-09-21;Vazamento de efluente;Baixa;Caravelas;BA;Ocorrência registrada na unidade de Caravelas.;Monitorando;2
+INC-0070;2024-09-24;Derramamento de produto químico;Baixa;Eunápolis;BA;Ocorrência registrada na unidade de Eunápolis.;Resolvido;4
+INC-0071;2024-09-05;Emissão acima do limite;Baixa;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Em tratamento;4
+INC-0072;2024-09-27;Descarte irregular de resíduo;Baixa;São Mateus;ES;Ocorrência registrada na unidade de São Mateus.;Em tratamento;3
+INC-0073;2024-10-28;Descarte irregular de resíduo;Baixa;Teixeira de Freitas;BA;Ocorrência registrada na unidade de Teixeira de Freitas.;Monitorando;1
+INC-0074;2024-10-18;Vazamento de efluente;Baixa;Caravelas;BA;Ocorrência registrada na unidade de Caravelas.;Em tratamento;4
+INC-0075;2024-11-22;Derramamento de produto químico;Média;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Em tratamento;16
+INC-0076;2024-11-21;Vazamento de efluente;Média;Eunápolis;BA;Ocorrência registrada na unidade de Eunápolis.;Monitorando;15
+INC-0077;2024-12-02;Queimada não autorizada;Média;Porto Seguro;BA;Ocorrência registrada na unidade de Porto Seguro.;Em tratamento;9
+INC-0078;2024-12-15;Queimada não autorizada;Baixa;Teixeira de Freitas;BA;Ocorrência registrada na unidade de Teixeira de Freitas.;Monitorando;5
+INC-0079;2024-12-21;Vazamento de efluente;Baixa;São Mateus;ES;Ocorrência registrada na unidade de São Mateus.;Em tratamento;6
