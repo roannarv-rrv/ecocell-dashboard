@@ -1,0 +1,12 @@
+dashboard-ambiental/
+├── data/
+│   ├── consumo_mensal_br.csv
+│   ├── efluentes_residuos_br.csv
+│   ├── incidentes_br.csv
+│   ├── reflorestamento_br.csv
+│   └── metas_ambientais_br.csv
+├── scripts/
+│   └── gerar_dados.py
+├── assets/
+│   └── screenshots/      ← prints das 3 páginas do dashboard
+└── README.md
